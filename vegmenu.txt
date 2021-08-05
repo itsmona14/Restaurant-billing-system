@@ -1,0 +1,5 @@
+  1. Noodles             80/-
+  2. Pizza		 140/-
+  3. Burger		 160/-
+  4. Cutlet		 70/-
+  5. Nuggets		 120/-
